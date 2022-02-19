@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- REQ0008: ZbbZhJo5cAoPtbJ1X65o5S_0xC15A-XEzkwDjn6Fiic=
+normative: true
+ref: ''
+reviewed: tAD0J9LLMNzh78z5oIMw7DZ1UVUTT2MMocHb4W1oHKk=
+text: |
+  The project shall enforce explicitly stating the SI Unit beside any numerical value of measurement.
