@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- REQ0001: fqFbd-KJdqvGwL2tPXeHCwvRg-MHXlZ4AxmlHKQqeio=
+normative: true
+ref: ''
+reviewed: -LmjLgRc5VKy26k9u8lQNdPOwiPliInkebcRhqPFPuw=
+text: |
+  The health module shall provide an interface to mark a device as HEALTHY, SICK, or DEAD.

@@ -1,0 +1,13 @@
+active: true
+derived: false
+header: ''
+level: 1.4
+links: []
+normative: true
+ref: ''
+reviewed: 5oonzBrpa7f6BMQzvFTGdVPZj2TffOZvS4gK5Re_qzA=
+text: |
+  The platform shall expose physical switches for the following systems:
+  1) Weapons
+  2) Drive
+  3) Autonomy

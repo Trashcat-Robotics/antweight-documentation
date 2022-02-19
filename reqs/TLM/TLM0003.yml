@@ -1,0 +1,12 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- REQ0003: SOsfAOGyAMuRs58M_44DPi9REIIx9hiVSsM0NyfSHXQ=
+- REQ0006: 2mjL_gjeLQdvpFwHnaib-XujYYmzvJT3dqBBCk1B6SM=
+normative: true
+ref: ''
+reviewed: KJnRHsl5NpZ_ns8ZuiHhNwxvQJS1t44p96Dkk0lF81k=
+text: |
+  TLM_SVC shall downlink event report packets once per 8Hz RTI.

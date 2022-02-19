@@ -1,0 +1,10 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links: []
+normative: true
+ref: ''
+reviewed: 6gbW62UKQY4A6esPm0KlKBjjwq7PlB4Kldb5o-V4_sA=
+text: |
+  The platform shall downlink periodic telemetry.
