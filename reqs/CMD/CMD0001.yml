@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- REQ0007: hL1he4xlFrBZ3TIGBIVFn1tPOJMmjwujwh0nyz2og48=
+normative: true
+ref: ''
+reviewed: 9UvMeEPIhBeClX_zeq3M7FIV_UAMoENYicwXs07v2hk=
+text: |
+  CMD_SVC shall queue command packets.

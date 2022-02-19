@@ -1,0 +1,12 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- REQ0002: 6gbW62UKQY4A6esPm0KlKBjjwq7PlB4Kldb5o-V4_sA=
+- REQ0003: SOsfAOGyAMuRs58M_44DPi9REIIx9hiVSsM0NyfSHXQ=
+normative: true
+ref: ''
+reviewed: HHWzEMfCv70wE7QNRMrcsVJIWVqP5blTnC84F8tLoVQ=
+text: |
+  TLM_SVC shall downlink telemetry at a parameterized frequency.

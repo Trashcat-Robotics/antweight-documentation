@@ -5,6 +5,9 @@ level: 1.4
 links: []
 normative: true
 ref: ''
-reviewed: 4r-P3dZPLCdwQP-x1d8wDY458xMsGOp1TKdiKdMgN18=
+reviewed: 5oonzBrpa7f6BMQzvFTGdVPZj2TffOZvS4gK5Re_qzA=
 text: |
-  The platform shall, on its exterior, expose toggle switches to control power to specific devices.
+  The platform shall expose physical switches for the following systems:
+  1) Weapons
+  2) Drive
+  3) Autonomy

@@ -1,0 +1,10 @@
+active: true
+derived: false
+header: ''
+level: 1.5
+links: []
+normative: true
+ref: ''
+reviewed: 2mjL_gjeLQdvpFwHnaib-XujYYmzvJT3dqBBCk1B6SM=
+text: |
+  The platform shall downlink aperiodic event reports.
