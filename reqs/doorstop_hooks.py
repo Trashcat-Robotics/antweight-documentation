@@ -24,16 +24,16 @@ def check_document(document, tree):
     if sum(1 for i in document if i.normative) < 10:
         yield DoorstopInfo("fewer than 10 normative items")
 
-
 def check_item(item, tree, document):
     if not item.get('rationale'):
         yield DoorstopError("Rationale is required!")
 
+    if not item.get('type'):
+        yield DoorstopError("Type is required!")
+
     uid = item.get('path').split('/')[-1]
     if len(item.get('links')) == 0 and not uid.startswith('REQ'):
         yield DoorstopError("A parent is required for a lower level requirement!")
-
-
 
 if __name__ == '__main__':
     main()
