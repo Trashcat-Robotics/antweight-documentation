@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 1.3
+links: []
+normative: true
+rationale: |
+  The project will enforce standards for development to ensure a safe product.
+ref: ''
+reviewed: O35giHnRLOvB_9oTwPDOFKfmPF6HmAIBr74D0I5Aqng=
+text: |
+  The platform's development shall adhere to project directives.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

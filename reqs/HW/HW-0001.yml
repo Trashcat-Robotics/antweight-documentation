@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- REQ-0003: qRgpfS1RJ46OHn45oJX3zwb-y4OFWUrv_z8YaXdijJQ=
+normative: true
+rationale: |
+  The battery itself may remain in the platform or be hot swappable, either way the batteries should support recharge.
+ref: ''
+reviewed: 7bycdnHkn7O1edyRZ5K0sBzG4pJefX4ItCDlPwiaz1E=
+text: |
+  The platform shall have a rechargeable battery system.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

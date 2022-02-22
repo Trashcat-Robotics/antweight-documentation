@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.21
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 8.6](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: S5S3lrw92OCb-ufETfebFZrJrCm-UMoBK6fmyZqQ9WE=
+text: |
+  The platform shall illuminate a visible red LED when main power is connected.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

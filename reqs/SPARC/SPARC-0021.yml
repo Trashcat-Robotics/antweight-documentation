@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: '1.20'
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 8.2](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: HBNK9Gb_HRe4NdkeyiEtAiqiz4GKRB99nKJPiUOGsbk=
+text: |
+  The platform shall have no onboard voltage higher than 48 Volts.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

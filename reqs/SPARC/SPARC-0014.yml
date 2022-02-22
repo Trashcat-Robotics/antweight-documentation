@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.13
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 6.4.2](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: iyXaE5LwG3iDFN4-IijclsuHMbApzmsW2U2zOaQM-24=
+text: |
+  The plaftorm's radio system shall have a mechanism to change between two or more frequencies or coded channels.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

@@ -1,0 +1,20 @@
+active: false
+derived: false
+header: ''
+level: 1.8
+links:
+- REQ-0002: null
+normative: true
+rationale: 'Demonstration of: following an airline, safely descending and landing,
+  hovering in space.
+
+  '
+ref: ''
+reviewed: 1yKN-FVPjqttbPkOl8loPkC-3qcNTxatmbynkXeGB2E=
+text: 'The platform shall have defined autonomous behaviors.
+
+  '
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

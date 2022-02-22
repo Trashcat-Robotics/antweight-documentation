@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 1.4
+links: []
+normative: true
+rationale: |
+  This robot is competing as an antweight, generally uses SPARC rules.
+ref: ''
+reviewed: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+text: |
+  The platform shall adhere to the SPARC ruleset for 454g antweight combat robots.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links: []
+normative: true
+rationale: |
+  Must move.
+ref: ''
+reviewed: qRgpfS1RJ46OHn45oJX3zwb-y4OFWUrv_z8YaXdijJQ=
+text: |
+  The platform shall adhere to hardware requirements.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

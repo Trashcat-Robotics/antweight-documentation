@@ -1,0 +1,21 @@
+active: true
+derived: false
+header: ''
+level: '1.10'
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 4.2.2](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: aDcJV4grX6brCTI73Sg4HcUJRrRc56YQE-9RU9dl6Bw=
+text: |
+  The platform shall limit spinning devices (rotating more than 360 degrees) to a tip speed of no more than 6 m/s (20 ft/s), unless:
+
+  + The spinning device is a saw with an effective tooth pitch of >= 5.
+    + Effective tooth pitch = tooth count / diameter.
+    + In the case of an abrasive saw, the tooth count = grit*circumference
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

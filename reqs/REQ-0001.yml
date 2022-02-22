@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links: []
+normative: true
+rationale: |
+  Must move.
+ref: ''
+reviewed: YVg7xi2ruOoiDVXZHstTRYoz_23O6Ty16JiseawSpF4=
+text: |
+  The platform shall adhere to mechanical requirements.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

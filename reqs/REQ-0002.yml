@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links: []
+normative: true
+rationale: |
+  Must move.
+ref: ''
+reviewed: zj4cJbElYfsYuf7Q_YnHjLK-sKBoJ8tWmfKc3HWd6-4=
+text: |
+  The platform shall adhere to software requirements.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

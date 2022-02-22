@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: ''
+level: 1.9
+links:
+- REQ-0004: O35giHnRLOvB_9oTwPDOFKfmPF6HmAIBr74D0I5Aqng=
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 5](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: kK2jnuC2l7tvqTDopcFnrpo8HRZTKRCxQu-qW2YDP8M=
+text: |
+  The platform shall have visible and controlled mobility.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

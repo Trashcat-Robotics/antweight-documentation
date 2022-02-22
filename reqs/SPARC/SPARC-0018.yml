@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.17
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 7.3.1](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: _hR6zVpaE70JeTOGiV_RANbjRQzFn_Q6eWZkpN9i2wY=
+text: |
+  The platform's autonomous systems must be disabled while the platform is disabled or powered off.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

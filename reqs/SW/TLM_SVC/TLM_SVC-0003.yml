@@ -1,0 +1,19 @@
+active: false
+derived: false
+header: ''
+level: 1.2
+links:
+- SW-0003: null
+normative: true
+rationale: 'FIXME: Decide on this value. Likely to slide depeneding on EVR volume.
+
+  '
+ref: ''
+reviewed: -WffPrr3YAEmWs9uowHyY2kTcP-s_LAM1ulR6eWsnbI=
+text: 'TLM_SVC shall downlink event report packets once per FIXME Hz RTI.
+
+  '
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

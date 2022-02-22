@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.12
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 6.4.1](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: XIqmEGDH55l8mTU0boPUzOmCU4hdc8Jb1iDndj0Z06g=
+text: |
+  The platform must stop all motion (drive and weapons) when connection is lost to the transmitter.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

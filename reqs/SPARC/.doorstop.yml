@@ -13,5 +13,6 @@ attributes:
   - rationale
 settings:
   digits: 4
-  prefix: REQ
+  parent: REQ
+  prefix: SPARC
   sep: '-'

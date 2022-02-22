@@ -1,0 +1,20 @@
+active: true
+derived: false
+header: ''
+level: 1.14
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 7](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf). Rather than ON/OFF we'll go with two different colors. The LED may break or some other issue, can disguise an activated autonomous system.
+ref: ''
+reviewed: dqiRKV3L_l_UZlZ4_moY0mH3i1F3IdKNK8KhhWGV2ok=
+text: |
+  The platform shall indicate the state of each autonomous system with a single LED:
+
+  + LED Green == Autonomy Enabled
+  + LED White == Autonomy Disabled
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

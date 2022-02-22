@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- REQ-0002: zj4cJbElYfsYuf7Q_YnHjLK-sKBoJ8tWmfKc3HWd6-4=
+normative: true
+rationale: |
+  Each device (thruster, instrument, battery, etc.) should have a controller that reports the health condition of the device. We can use the health condition to trigger fault protection scenarios, and report to ground.
+ref: ''
+reviewed: Zv0uiL_JWW4it8v6xZnuBMxr8p1jkCRSKHbMZBV3xr8=
+text: |
+  The platform shall maintain the health status of each device.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

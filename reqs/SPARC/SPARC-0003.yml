@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 3.3](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf) need to present this information to inspection staff.
+ref: ''
+reviewed: SBG8eBgLnclvqm8lX0MO3CrKuBBzkG7qNk8Qkpj6XtM=
+text: |
+  All robot operating principles and potential dangers shall be documented.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

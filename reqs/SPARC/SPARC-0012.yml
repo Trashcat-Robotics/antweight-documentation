@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.11
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 6.1](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: dN8W-RHqHlrrBikT-7L-EChDavDOb4tfKjblqhWNPSw=
+text: |
+  The plaftform shall be radio controlled or use an approved custom system.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

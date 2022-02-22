@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.16
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 7.3.2](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: Xplq9tuMgki0Eihzv_fJn5sYefSyhAavAJu7FJvcWM0=
+text: |
+  The platform's autonomous systems shall disable automatically if there is a loss of signal from the ground station.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

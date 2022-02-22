@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links:
+- REQ-0002: zj4cJbElYfsYuf7Q_YnHjLK-sKBoJ8tWmfKc3HWd6-4=
+normative: true
+rationale: |
+  Telemetry that will be *expected* at some known frequency. Loss of this telemetry can be indicative of loss of signal.
+ref: ''
+reviewed: qkllujBJyOoIE4hvXmCUtKS6J-OZDIVehxChoz2urnQ=
+text: |
+  The platform shall downlink periodic telemetry.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

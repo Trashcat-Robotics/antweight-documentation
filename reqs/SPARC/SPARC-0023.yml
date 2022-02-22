@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.22
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 12.2](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: d0LRg8baWsG7Ga2IHWMp3hPVMHhOis21b98epA71SWY=
+text: |
+  The platform shall come to a full stop within 60 seconds of the power being removed using a self-contained braking system.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

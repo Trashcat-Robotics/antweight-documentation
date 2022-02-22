@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.6
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 4.2.1](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: 7H6dKu_FRPUZjrOuGVWBT52CNaQBn4RM-JPMYRM4cWo=
+text: |
+  The platform shall have an active weapon if fighting in the Sportsman Class.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

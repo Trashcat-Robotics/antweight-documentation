@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.5
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 3.4.5](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: qs5LtgxW0Cv3GS7CjnuWVW5O7ToRyHoK3_TsMima_lo=
+text: |
+  The platform's active weapon shall have a visible locking pin to prevent actuation outside of the arena.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- SW-0002: E2K2qeO8P0tMLSp3Z9qEaG5hAl7tx2FpG3tVLl38wpk=
+normative: true
+rationale: |
+  "Parameterized" means we can change this value with a ground command while the vehicle is in flight.
+ref: ''
+reviewed: xrF34koynhCt7xx-FgJErFYOjIIaBomED4AYCiKj1CU=
+text: |
+  TLM_SVC shall downlink telemetry at a parameterized frequency.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

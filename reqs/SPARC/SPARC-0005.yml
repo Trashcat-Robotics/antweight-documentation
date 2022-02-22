@@ -1,0 +1,20 @@
+active: true
+derived: false
+header: ''
+level: 1.4
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 3.4.3 & 8.3](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf)
+ref: ''
+reviewed: rUE5A8RSay1VzotpNOVZLKxkffdHM6sx_7iHAee05iY=
+text: |
+  The platform shall provide a means to fully deactivate:
+
+  + Weapons and drive systems within 15 seconds via mechanical disconnect.
+  + All systems within 60 seconds via mechanical disconnect.
+type: Requirement
+verified-by: Manual Inspection
+verified-comment: unverified
+verified-date: unverified

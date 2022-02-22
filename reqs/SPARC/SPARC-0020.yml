@@ -1,0 +1,19 @@
+active: true
+derived: false
+header: ''
+level: 1.19
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 8.1](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: Uq18vhH7nYUgA_0Kupu0ohV24pfpUePJZPi5w1S0JEI=
+text: |
+  The platform's battery shall not spray or spill contents when damaged or inverted.
+
+  + Example of acceptable battery types: gel cells, Hawkers, NiCads, NiMh, dry cells, AGM, LIon, LiFe, LiPoly.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

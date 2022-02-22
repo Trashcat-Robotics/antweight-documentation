@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.18
+links:
+- REQ-0005: 1KkwDaJUOF_FiUiOPdtOVgIyTLc8nCTo1dAYs1LUl-I=
+normative: true
+rationale: |
+  [SPARC Specifications v1.3 section(s) 7.3.3](http://sparc.tools/wordpress/wp-content/uploads/2019/SPARC_Robot_Construction_Specifications_v1.3.pdf).
+ref: ''
+reviewed: dyoeTr2lhc0YK2MetB_1jUBFuxdg53TeDOUfRXuzNrE=
+text: |
+  The platform's autonomous systems must automatically disarm within one minute of the match length time.
+type: Requirement
+verified-by: Unit Test
+verified-comment: unverified
+verified-date: unverified

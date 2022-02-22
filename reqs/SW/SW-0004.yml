@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- REQ-0002: zj4cJbElYfsYuf7Q_YnHjLK-sKBoJ8tWmfKc3HWd6-4=
+normative: true
+rationale: |
+  Desire is for the platform to be networked but only under control of approved users.
+ref: ''
+reviewed: 1bJWFArc3nAyEdG1n2Nd7nVDd0GjW60j4M-0E7WW9bs=
+text: |
+  The platform shall support bidirectional wireless communication with approved devices.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified
