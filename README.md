@@ -3,7 +3,7 @@
 ## Dependencies
 
 ```python3
-pip3 install doorstop
+pip3 install doorstop pyyaml
 ```
 ## Requirements
 
