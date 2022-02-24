@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links:
+- SW-0008: tmQ4ISLqBoQubC8Xdo57a8FSq9ott95MV7qHxS_Qr6E=
+normative: true
+rationale: |
+  Certain autonomous behaviors depend on the expected time of the match
+ref: ''
+reviewed: UXfkxSSwQw_7lEJAbrObnmGZu9w71Rrlomilp-Zl95s=
+text: |
+  BOUT_SVC shall provide a public interface to retrieve the expected bout time in milliseconds.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

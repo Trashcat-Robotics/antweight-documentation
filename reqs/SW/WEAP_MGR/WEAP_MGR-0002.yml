@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links:
+- SW-0007: AZZTkHFkkK4-GdHG_dk4Yc1YGskw6gf6x1f74Oe_bEg=
+normative: true
+rationale: |
+  Avoid accidental activations.
+ref: ''
+reviewed: AYw9ddRjirbKFGda_vk23ZUyDnv-W8gSFl4L-hFTn68=
+text: |
+  WEAP_MGR shall, on receipt of BOTH a command and a confirmation command, transition the weapon mode to ACTIVE.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.3
+links:
+- SPARC-0019: zEtV83kG0ahC40CUX9nwlANEwofTg2VNVk9Fx5_WtSk=
+normative: true
+rationale: |
+  Safe the machine after the match ends.
+ref: ''
+reviewed: 2MmxoRx-UUiGHXHQnfwhX4TR8FuvOpS2S13ZsTUrzbU=
+text: |
+  AUTO_EXE shall engage system disarm behavior if a parameterized number of seconds have passed after the match time.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

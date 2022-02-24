@@ -157,6 +157,8 @@ settings:
 
 We have specific fields for this project. All `.doorstop.yml` files not following the project standard will be rectified when the `build` script is called.
 
+NOTE: The `./build` script must ALWAYS be called after using `doorstep create`, otherwise `doorstop add` will create requirements in the wrong format.
+
 Output after `./build`:
 
 ```yaml

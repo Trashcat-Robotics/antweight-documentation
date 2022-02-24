@@ -1,0 +1,25 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- SW-0007: AZZTkHFkkK4-GdHG_dk4Yc1YGskw6gf6x1f74Oe_bEg=
+normative: true
+rationale: |
+  If the spring is completely or semi-engaged on power on, want to slowly remove tension. Rotating forward would cause the flipper to snap dangerously. Instead rotating backwards will alleviate the pressure.
+ref: ''
+reviewed: Bm3T7Nvo4AbKJciblwwt0_cPj9Frv-Cv55IE0KQQodc=
+text: |
+  WEAP_MGR shall provide an interface to safely disarm the active weapon via the following steps:
+
+  1) Set the WEAP_MGR mode to DISARM
+
+  2) Rotate the motor backwards (slowly) until a sensor indicates the weapon is deployed
+
+  3) Command PWR_MGR to open the switch to the weapon motor
+
+  4) Set WEAP_MGR mode to IDLE
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

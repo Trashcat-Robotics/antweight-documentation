@@ -5,20 +5,15 @@ level: 1.1
 links:
 - SW-0005: null
 normative: true
-rationale: 'FIXME: Need hardware team to decide on flight computer hardware.
+rationale: |
+  FIXME: Need hardware team to decide on flight computer hardware.
 
-
-  Command packets will be continuous (remote control transmitter) or aperiodic (command
-  to change configuration).
-
+  Command packets will be continuous (remote control transmitter) or aperiodic (command to change configuration).
   Rate (Hz) to process command packets TBD depending on hardware selected.
-
-  '
 ref: ''
 reviewed: Mk97-9lSE1_UYfstgoEVEeykzsPy6DnUOj5A7D6KPiA=
-text: 'CMD_SVC shall process a command packet once every FIXME Hz RTI.
-
-  '
+text: |
+  CMD_SVC shall process a command packet once every FIXME Hz RTI.
 type: Requirement
 verified-by: unverified
 verified-comment: unverified

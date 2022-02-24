@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links:
+- SPARC-0016: b-tAccKpruAzA1-VjRkLHfq26qd8nm8kEVi0Gtdxuzo=
+normative: true
+rationale: |
+  Can't engage autonomy without a command, SPARC rules
+ref: ''
+reviewed: GC8hazqGd3QGX3b0cm9d1hez25dljvHwkglsu-h1B0A=
+text: |
+  AUTO_EXE shall set its autonomous mode to OFF on initialization.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

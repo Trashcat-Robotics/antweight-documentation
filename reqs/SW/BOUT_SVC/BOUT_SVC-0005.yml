@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.4
+links:
+- SW-0008: tmQ4ISLqBoQubC8Xdo57a8FSq9ott95MV7qHxS_Qr6E=
+normative: true
+rationale: |
+  Don't need ridiculous accuracy for the bout time.
+ref: ''
+reviewed: DKDFK9rSbw_85hKKNH5KuVll7TK32gav54nG8ONNMlI=
+text: |
+  BOUT_SVC shall, only while the mode is ACTIVE, increment the current bout time at 1 Hz.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

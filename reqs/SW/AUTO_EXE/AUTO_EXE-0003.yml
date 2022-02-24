@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- SPARC-0017: FXb3r9WApRtPVp-sha5FDc7_Dmt1l4qOonCK1eMPJFI=
+- SPARC-0024: R2EPRzPqWuq_IjIzarl21ej-ztQzcNPUnEYofYWoB_A=
+normative: true
+rationale: |
+  Safety rules
+ref: ''
+reviewed: XjyBkeeOHPUETeK1oX1p1i0kdqm3emkd5Zwx4Xdo5ww=
+text: |
+  AUTO_EXE shall engage system disarm behavior if signal is lost for a parameterized number of seconds.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

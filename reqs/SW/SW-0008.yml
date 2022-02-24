@@ -1,0 +1,20 @@
+active: true
+derived: false
+header: ''
+level: 1.7
+links:
+- REQ-0002: zj4cJbElYfsYuf7Q_YnHjLK-sKBoJ8tWmfKc3HWd6-4=
+normative: true
+rationale: |
+  Certain autonomous behaviors depend on bout length.
+ref: ''
+reviewed: TBvcys4B4C3YCznq_FeZSBINAWwgsFAt1cpuWL1Xnms=
+text: |
+  Software shall record and provide session (bout) information, such as:
+
+  - Current bout length
+  - Expected bout length (parameterized)
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

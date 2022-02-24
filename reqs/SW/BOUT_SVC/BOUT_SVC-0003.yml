@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- SW-0008: tmQ4ISLqBoQubC8Xdo57a8FSq9ott95MV7qHxS_Qr6E=
+normative: true
+rationale: |
+  There's a period of time where we're powered on and IDLE but the match countdown hasn't started yet.
+ref: ''
+reviewed: 0rPi5ZBZ-AHfAaXMRuz5BBuYhVI5bf1DBkmjWlzljXk=
+text: |
+  BOUT_SVC shall set the bout mode to ACTIVE only on command.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

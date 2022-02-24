@@ -1,0 +1,29 @@
+active: true
+derived: false
+header: ''
+level: 1.4
+links:
+- SW-0006: hBaPWT3V4R3qpQlTUtr5LVMsVLlKI5Z8E5IYxbVfFgY=
+normative: true
+rationale: |
+  Want to carefully take tension off of the spring, disable the motor, and disable autonomy.
+ref: ''
+reviewed: caGbElUIu2qJqDj4ynH7dDDhl0-CyFX99MiyEA01R9c=
+text: |
+  AUTO_EXE shall perform the following steps during system disarm behavior:
+
+  1) Set the autonomy mode to SYS_DISARM
+
+  2) Command WEAP_MGR to safe disarm
+
+  3) Command DRIVE_MGR to safe disarm
+
+  4) Wait for a response from WEAP_MGR confirming disarm
+
+  5) Wait for a response from DRIVE_MGR confirming disarm
+
+  6) Set the autonomy mode to OFF
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- SW-0008: tmQ4ISLqBoQubC8Xdo57a8FSq9ott95MV7qHxS_Qr6E=
+normative: true
+rationale: |
+  Certain behaviors must occur depending on the match time. Don't need greater granularity than that.
+ref: ''
+reviewed: dkq5OS-pyvX7QxzCMnsbdJirbMX2AbUeB5LE2sjQZDo=
+text: |
+  BOUT_SVC shall provide a public interface to retrieve the current bout time in seconds.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

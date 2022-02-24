@@ -1,16 +1,16 @@
 active: true
 derived: false
 header: ''
-level: 1.6
+level: 1.5
 links:
 - REQ-0002: zj4cJbElYfsYuf7Q_YnHjLK-sKBoJ8tWmfKc3HWd6-4=
 normative: true
 rationale: |
-  Demonstration of: following an airline, safely descending and landing, hovering in space.
+  Self-explanatory.
 ref: ''
-reviewed: 1yKN-FVPjqttbPkOl8loPkC-3qcNTxatmbynkXeGB2E=
+reviewed: nI6uggWNUqkmmqrWYuSypLBgWEI_75DFCPiFk7gHTpU=
 text: |
-  The platform shall have defined autonomous behaviors.
+  Software shall control the active weapon(s).
 type: Requirement
 verified-by: unverified
 verified-comment: unverified

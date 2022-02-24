@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- SPARC-0015: iB7Ys1cEAU9fi9Ko9raKs-fgwf6TsU-xbLRCQOAk4fo=
+- SW-0006: hBaPWT3V4R3qpQlTUtr5LVMsVLlKI5Z8E5IYxbVfFgY=
+normative: true
+rationale: |
+  Need indication if autonomy is active, for safety reasons.
+ref: ''
+reviewed: JeY2FEZti8mmTGKEMQ0nN1hTQAbzhLuhvEiSlDHK2lY=
+text: |
+  AUTO_EXE shall command the autonomy LED indicator to be white when autonomy mode is OFF, and green otherwise.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified

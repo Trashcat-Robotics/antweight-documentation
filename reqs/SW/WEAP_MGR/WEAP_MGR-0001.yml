@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links:
+- SW-0007: AZZTkHFkkK4-GdHG_dk4Yc1YGskw6gf6x1f74Oe_bEg=
+normative: true
+rationale: |
+  Should be able to differentiate OFF from ON. If light is off and power is on, indicates a broken LED.
+ref: ''
+reviewed: OjmJftfbiopSJA4tdJ3ESeI805EqQQQ77gSGm7TvutQ=
+text: |
+  WEAP_MGR shall command the autonomy LED indicator to be yellow when weapon mode is IDLE, and purple otherwise.
+type: Requirement
+verified-by: unverified
+verified-comment: unverified
+verified-date: unverified
