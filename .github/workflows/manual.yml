@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.6", "3.7", "3.8", "pypy3"]
+        python-version: ["3.6"]
 
     steps:
     - uses: "actions/checkout@v2"
@@ -24,4 +24,4 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4.2.5
       with:
         branch: gh-pages
-        folder: public
+        folder: reqs/public
