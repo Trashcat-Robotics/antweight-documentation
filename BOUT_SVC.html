@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head><title>Doorstop</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" href="assets/doorstop/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/doorstop/general.css" />
+  <link type="text/css" rel="stylesheet" href="assets/doorstop/sidebar.css" />
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" ></script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+  </script>
+</head>
+<body>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-2 hidden-sm hidden-xs">
+          <nav id="TOC" class="nav nav-stacked fixed sidebar">
+              <h3>Table of Contents</h3>
+<ul>
+<li><a href="#BOUT_SVC-0001">1.0 BOUT_SVC-0001</a><ul>
+<li><a href="#BOUT_SVC-0002">1.1 BOUT_SVC-0002</a></li>
+<li><a href="#BOUT_SVC-0003">1.2 BOUT_SVC-0003</a></li>
+<li><a href="#BOUT_SVC-0004">1.3 BOUT_SVC-0004</a></li>
+<li><a href="#BOUT_SVC-0005">1.4 BOUT_SVC-0005</a></li>
+</ul>
+</li>
+</ul>
+          </nav>
+      </div>
+      <div class="col-lg-8" id="main">
+        <h1 id="BOUT_SVC-0001">1.0 BOUT_SVC-0001</h1>
+<p>BOUT_SVC shall provide a public interface to retrieve the current bout time in seconds.</p>
+<p><em>Parent links:</em> <a href="SW.html#SW-0008">SW-0008</a></p>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>verified-by</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-date</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-comment</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>type</td>
+<td>Requirement</td>
+</tr>
+<tr>
+<td>rationale</td>
+<td>Certain behaviors must occur depending on the match time. Don't need greater granularity than that.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="BOUT_SVC-0002">1.1 BOUT_SVC-0002</h2>
+<p>BOUT_SVC shall provide a public interface to retrieve the expected bout time in milliseconds.</p>
+<p><em>Parent links:</em> <a href="SW.html#SW-0008">SW-0008</a></p>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>verified-by</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-date</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-comment</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>type</td>
+<td>Requirement</td>
+</tr>
+<tr>
+<td>rationale</td>
+<td>Certain autonomous behaviors depend on the expected time of the match</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="BOUT_SVC-0003">1.2 BOUT_SVC-0003</h2>
+<p>BOUT_SVC shall set the bout mode to ACTIVE only on command.</p>
+<p><em>Parent links:</em> <a href="SW.html#SW-0008">SW-0008</a></p>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>verified-by</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-date</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-comment</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>type</td>
+<td>Requirement</td>
+</tr>
+<tr>
+<td>rationale</td>
+<td>There's a period of time where we're powered on and IDLE but the match countdown hasn't started yet.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="BOUT_SVC-0004">1.3 BOUT_SVC-0004</h2>
+<p>BOUT_SVC shall, on initialization:</p>
+<p>1) Set the current bout time to 0 seconds
+2) Set the expected bout time to the parameterized value (in seconds)
+2) Set the bout mode to IDLE</p>
+<p><em>Parent links:</em> <a href="SW.html#SW-0008">SW-0008</a></p>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>verified-by</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-date</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-comment</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>type</td>
+<td>Requirement</td>
+</tr>
+<tr>
+<td>rationale</td>
+<td>Start at 0.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="BOUT_SVC-0005">1.4 BOUT_SVC-0005</h2>
+<p>BOUT_SVC shall, only while the mode is ACTIVE, increment the current bout time at 1 Hz.</p>
+<p><em>Parent links:</em> <a href="SW.html#SW-0008">SW-0008</a></p>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>verified-by</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-date</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>verified-comment</td>
+<td>unverified</td>
+</tr>
+<tr>
+<td>type</td>
+<td>Requirement</td>
+</tr>
+<tr>
+<td>rationale</td>
+<td>Don't need ridiculous accuracy for the bout time.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+      </div>
+    </div>
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="assets/doorstop/jquery.min.js"></script>
+<script src="assets/doorstop/bootstrap.min.js"></script>
+<script>
+    $(function() {
+        $("table").addClass("table");
+        $("nav ul").addClass("nav nav-stacked");
+        $("nav").affix();
+        $('body').scrollspy({
+          target: '.sidebar'
+        });
+        $("#main a").attr("target", "parent");
+
+  $(window).on('hashchange', function() {
+    $(window).scrollTop($(location.hash.toLowerCase()).offset().top);});
+  });
+</script>
+</body>
+</html>
+
