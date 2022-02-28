@@ -1,5 +1,7 @@
 # antweight-documentation
 
+The source code for this robot can be found [here](https://github.com/Trashcat-Robotics/antweight).
+
 ## Dependencies
 
 ```python3
